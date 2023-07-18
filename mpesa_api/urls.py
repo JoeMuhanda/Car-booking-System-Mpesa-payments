@@ -1,4 +1,4 @@
-om django.urls import path
+from django.urls import path
 from mpesa_api.views import *
 
 urlpatterns = [
